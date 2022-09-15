@@ -1,11 +1,11 @@
 void main() {
-  // print('test');
-  // // String and int and bool and double
-  // String name = 'Costumers';
-  // print(name);
-  // print(name.length);
-  // print(name.isNotEmpty);
-  // print(name.isEmpty);
+  print('test');
+  // String and int and bool and double
+  String name = 'Costumers';
+  print(name);
+  print(name.length);
+  print(name.isNotEmpty);
+  print(name.isEmpty);
   int number = 50;
   double number2 = 100.0;
   print(number);
@@ -14,11 +14,11 @@ void main() {
   final sum = number + number2;
   print(sum);
 
-  String name = 'ehmet';
+  String name5 = 'ehmet';
   int money = 20;
   dynamic ad = 'ali';
-  print(name + money.toString());
-  print(name + '$money');
+  print(name5 + money.toString());
+  print(name5 + '$money');
   bool? isCheckt;
   print(isCheckt);
   var User = 'name';
