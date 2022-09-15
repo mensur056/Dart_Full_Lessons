@@ -19,6 +19,7 @@ void main() {
   dynamic ad = 'ali';
   print(name5 + money.toString());
   print(name5 + '$money');
+  print(name5 + '$money');
   bool? isCheckt;
   print(isCheckt);
   var User = 'name';
