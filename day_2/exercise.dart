@@ -18,4 +18,6 @@ void main() {
 //Beden terbiyesi dersinde bir ses verme kecirilir eger sinidefi sagirdlerden 13de coxu futbol oynamaq istese butun sinif futbol oynayacaq,8den coxu basketbol istesen butun sinif basketbol oynayacaq eks hallarda hec bir sey oynanmayacaq.
 //1. hal 15 nefer futbol oynamaq isteyir
 //2. hal 8 nefer basketbol oynamaq isteyir
+
+//Switch
 }
