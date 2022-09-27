@@ -11,8 +11,8 @@ void main() {
   String surname = 'Pasayev';
 
   print(name);
-  bool isCheckd = false;
-  print(isCheckd);
+  bool isChecked = false;
+  print(isChecked);
   double res = number + number3;
   print('Sizin hesabladiginiz qiymet : $res');
   print(name + ' ' + surname);

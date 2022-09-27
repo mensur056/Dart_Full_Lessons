@@ -15,7 +15,16 @@ void main() {
   //You must know what is your type of list
   //You have to select 3. and 5. index in your list
   //You can  select Ali and Neymet then you have to know what is length of Neymet
+  List<String> customers = ['Ali', 'Melek', 'Neymet', 'Ehemet', 'Arif'];
+  print(customers[2] + ' ' + customers[4]);
+  print(customers[2].length);
+  if (customers[2].length > 5) {
+    print(customers);
+    customers.add('hello');
+    print(customers);
+  }
 
+  print('$customers[0]');
   // EXERCISE 4
   //There is a person and he wanna join your list
   //The name of person is John and Ali wanna get out in your list
