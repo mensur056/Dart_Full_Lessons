@@ -58,7 +58,7 @@ void main() {
   int dailyEarn = 600;
   int maxDailyEarn = 1000;
   if (dailyEarn > maxDailyEarn) {
-    print();
+    print('');
     print('Sen ayliq 300 manat vergi odemelisen');
   } else {
     print('Sen ayliq 200 manat vergi odemelisen');
